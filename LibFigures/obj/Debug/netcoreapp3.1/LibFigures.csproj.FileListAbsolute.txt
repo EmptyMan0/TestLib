@@ -1,0 +1,16 @@
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\obj\Debug\netcoreapp3.1\LibFigures.csprojAssemblyReference.cache
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\obj\Debug\netcoreapp3.1\LibFigures.AssemblyInfoInputs.cache
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\obj\Debug\netcoreapp3.1\LibFigures.AssemblyInfo.cs
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\obj\Debug\netcoreapp3.1\LibFigures.csproj.CoreCompileInputs.cache
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\bin\Debug\netcoreapp3.1\LibFigures.exe
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\bin\Debug\netcoreapp3.1\LibFigures.deps.json
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\bin\Debug\netcoreapp3.1\LibFigures.runtimeconfig.json
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\bin\Debug\netcoreapp3.1\LibFigures.runtimeconfig.dev.json
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\bin\Debug\netcoreapp3.1\LibFigures.dll
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\bin\Debug\netcoreapp3.1\LibFigures.pdb
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\obj\Debug\netcoreapp3.1\LibFigures.csproj.CopyComplete
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\obj\Debug\netcoreapp3.1\LibFigures.dll
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\obj\Debug\netcoreapp3.1\LibFigures.pdb
+C:\Users\Empty_Man\source\repos\LibFigures\LibFigures\obj\Debug\netcoreapp3.1\LibFigures.genruntimeconfig.cache

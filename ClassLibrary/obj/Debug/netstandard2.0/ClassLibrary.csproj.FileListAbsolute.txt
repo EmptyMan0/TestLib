@@ -1,0 +1,9 @@
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
