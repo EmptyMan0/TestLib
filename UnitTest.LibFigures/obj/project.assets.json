@@ -5732,19 +5732,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Empty_Man\\.nuget\\packages\\": {}
+    "C:\\Users\\AdminUser\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Empty_Man\\source\\repos\\LibFigures\\UnitTest.LibFigures\\UnitTest.LibFigures.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\TestLib\\UnitTest.LibFigures\\UnitTest.LibFigures.csproj",
       "projectName": "UnitTest.LibFigures",
-      "projectPath": "C:\\Users\\Empty_Man\\source\\repos\\LibFigures\\UnitTest.LibFigures\\UnitTest.LibFigures.csproj",
-      "packagesPath": "C:\\Users\\Empty_Man\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Empty_Man\\source\\repos\\LibFigures\\UnitTest.LibFigures\\obj\\",
+      "projectPath": "C:\\Users\\Public\\TestLib\\UnitTest.LibFigures\\UnitTest.LibFigures.csproj",
+      "packagesPath": "C:\\Users\\AdminUser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Public\\TestLib\\UnitTest.LibFigures\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Empty_Man\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AdminUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5756,9 +5761,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Empty_Man\\source\\repos\\LibFigures\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\Empty_Man\\source\\repos\\LibFigures\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\Users\\Public\\TestLib\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Public\\TestLib\\ClassLibrary\\ClassLibrary.csproj"
             }
           }
         }
@@ -5771,6 +5777,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
@@ -5804,7 +5811,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

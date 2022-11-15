@@ -7,3 +7,13 @@ C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0
 C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
 C:\Users\Empty_Man\source\repos\LibFigures\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Public\TestLib\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\Public\TestLib\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Public\TestLib\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\Public\TestLib\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Public\TestLib\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\TestLib\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Public\TestLib\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Public\TestLib\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Public\TestLib\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\Public\TestLib\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb

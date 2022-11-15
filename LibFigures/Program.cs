@@ -21,10 +21,7 @@ namespace LibFigures
                     case "1":
                         Console.Write("Введите радиус круга в см для вычисления площади r = ");
                         var r = Convert.ToDouble(Console.ReadLine());
-
-                        Figures radius = new Figures(r);
-                        var rez = radius.area_of_a_circle();
-
+                        var rez = new Circle(r).GetSquare();
                         Console.WriteLine($"Площадь круга {rez} кв.см");
                         break;
 
@@ -45,8 +42,8 @@ namespace LibFigures
                         string ife = (c * c == a * a + b * b) ? "Введённый Вами треугольник равнобедренный"
                                                                 : "Введённый Вами треугольник равносторонний";
                         Console.WriteLine($"{ife}");
-                        Figures sides = new Figures(a, b, c);
-                        Console.WriteLine($"Площадь треугольника равна {sides.area_of_a_triangle()} кв. см");
+                        Triangle sides = new Triangle(a, b, c);
+                        Console.WriteLine($"Площадь треугольника равна {sides.GetSquare()} кв. см");
                         break;
 
                     default:
